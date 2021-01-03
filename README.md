@@ -10,7 +10,7 @@ The other markdown files includes some references about the topics of this READM
 
 ## #2 at 2021-01-01
 
-- Using SQLite3 for the Node/Express API
+- Using SQLite3, db-migrate and Mocha for the Node/Express API
 - Almost blank homepage with 2 buttons for login (Google, Facebook)
 
 ## #1 at 2020-12-31
