@@ -1,5 +1,9 @@
 # 100 Days of Code
 
+Bits of code day by day.
+
+The other markdown files includes some references about the topics of this README.
+
 ## #3 at 2021-01-02
 
 - Using Passport for Google OAuth2
