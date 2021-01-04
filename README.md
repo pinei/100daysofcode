@@ -4,6 +4,11 @@ Bits of code day by day.
 
 The other markdown files includes some references about the topics of this README.
 
+## #4 at 2021-01-02
+
+- A new Vue app (sublingo) for working on subtitles
+- Tying drag and drop files with Vue
+
 ## #3 at 2021-01-02
 
 - Using Passport for Google OAuth2
