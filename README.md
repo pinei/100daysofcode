@@ -6,6 +6,10 @@ The other markdown files includes some references about the topics listed in thi
 
 [Kanban](https://github.com/users/pinei/projects/1)
 
+## #7 at 2021-01-09
+
+- Refactoring tests with Mocha (_Mocha tests run serially, allowing for flexible and accurate reporting_)
+- Working with datetime on SQLite
 
 ## #6 at 2021-01-06
 
