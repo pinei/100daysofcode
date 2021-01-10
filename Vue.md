@@ -16,3 +16,7 @@ In order to make the div a drop target, the div's dragenter and dragover events 
 ```html
 <div @drop="dropLink" @dragenter.prevent @dragover.prevent></div>
 ```
+
+[Drag and Drop file in HTML using JQuery](https://codepen.io/hiralbest/pen/zKyVkW)
+
+@TODO testar com 

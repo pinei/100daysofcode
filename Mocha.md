@@ -37,3 +37,5 @@ Puppeteer is primarily used for applications specific to the browser like crawl 
 `Sinon.js` compliments the unit testing framework to fake/mock the real things.
 
 A good alternative to Sinon would be `testdouble.js`.
+
+`Supertest` is an abstraction to test HTTP requests. Can be combined to `Nock` (HTTP server mocking and expectations library) to test modules that perform HTTP requests in isolation.
