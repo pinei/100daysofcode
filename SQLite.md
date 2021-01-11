@@ -74,6 +74,48 @@ The following options are available on column specs
   - To set an expression (eg a function call) as the default value use this syntax: defaultValue: new String('uuid_generate_v4()')
 - foreignKey: set a foreign key to the column
 
+### db-migrate workflow
+
+Create a migration
+
+```
+$ npm run migrate create users_and_projects
+[INFO] Created migration at /.../migrations/20210110173108-users_and_projects.js
+````
+
+Define the `up` task.
+
+Use async/await pattern to simplify the use of multiple commands in sequence.
+
+[Migrations API - SQL](https://db-migrate.readthedocs.io/en/latest/API/SQL/)
+[SQLite CREATE TABLE](https://sqlite.org/lang_createtable.html)
+
+```javascript
+exports.up = async function(db) {
+  await db.createTable('users', {
+    id: { type: 'int', primaryKey: true },
+    email: { type: 'text', unique: true },
+    displayName: { type: 'text', notNull: true },
+    created: { type: 'timestamp' },
+    lastLogin: { type: 'timestamp', defaultValue: 'now' }
+  });
+
+  await db.createTable('projects', {
+    id: { type: 'int', primaryKey: true },
+    displayName: { type: 'text', notNull: true },
+    created: { type: 'timestamp', defaultValue: 'now' },
+  });
+};
+```
+
+Define the `down` task
+
+```javascript
+exports.down = async function(db) {
+  await db.dropTable('users');
+};
+```
+
 ## Date and Time functions
 
 [Date And Time Functions](https://www.sqlite.org/lang_datefunc.html)

@@ -6,6 +6,10 @@ The other markdown files includes some references about the topics listed in thi
 
 [Kanban](https://github.com/users/pinei/projects/1)
 
+## #8 at 2021-01-10
+
+- Developing a data layer over SQLite for a Node.js app (Service -> Provider -> sqlite3)
+
 ## #7 at 2021-01-09
 
 - Refactoring tests with Mocha (_Mocha tests run serially, allowing for flexible and accurate reporting_)
