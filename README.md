@@ -6,6 +6,10 @@ The other markdown files includes some references about the topics listed in thi
 
 [Kanban](https://github.com/users/pinei/projects/1)
 
+## #9 at 2021-01-13
+
+- Trying an ETL to migrate data from a relational database to JSON format (KNIME)
+
 ## #8 at 2021-01-10
 
 - Developing a data layer over SQLite for a Node.js app (Service -> Provider -> sqlite3)
