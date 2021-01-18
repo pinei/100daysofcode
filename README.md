@@ -26,6 +26,7 @@ The other markdown files includes some references about the topics listed in thi
 ## #10 at 2021-01-17
 
 - First steps with Haskell Stack
+- Using Selenium Webdriver for automation of annoying tasks
 
 ## #9 at 2021-01-13
 
