@@ -6,6 +6,18 @@ The other markdown files includes some references about the topics listed in thi
 
 [Kanban](https://github.com/users/pinei/projects/1)
 
+## #12 at 2021-03-28
+
+- First steps with Haskell Stack
+
+## #11 at 2021-03-26
+
+- Developing a Groovy/Grails backend for administration task automation
+
+## #10 at 2021-02-...
+
+- A Node.js script to extract data from Oracle RDBMS to JSON documents using oracledb module
+
 ## #9 at 2021-01-13
 
 - Trying an ETL to migrate data from a relational database to JSON format (KNIME)
