@@ -6,17 +6,26 @@ The other markdown files includes some references about the topics listed in thi
 
 [Kanban](https://github.com/users/pinei/projects/1)
 
-## #12 at 2021-03-28
+## #14 at 2021-04-15
 
-- First steps with Haskell Stack
+- HackerRank REST API Intermediate Certificate
+  - REST API consume with Node
 
-## #11 at 2021-03-26
+## #13 at 2021-03-31
+
+- Trying Haskell stack to work in a Raspberry Pi 4 (linux-armv7) (unsuccessful)
+
+## #12 at 2021-03-26
 
 - Developing a Groovy/Grails backend for administration task automation
 
-## #10 at 2021-02-...
+## #11 at 2021-02-01
 
 - A Node.js script to extract data from Oracle RDBMS to JSON documents using oracledb module
+
+## #10 at 2021-01-17
+
+- First steps with Haskell Stack
 
 ## #9 at 2021-01-13
 
