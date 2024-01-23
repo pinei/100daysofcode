@@ -6,7 +6,7 @@ The other markdown files includes some references about the topics listed in thi
 
 [Kanban](https://github.com/users/pinei/projects/1)
 
-## #14 at 2021-04-15
+## #16 at 2021-04-15
 
 - HackerRank REST API Intermediate Certificate
   - REST API consume with Node
@@ -22,6 +22,10 @@ The other markdown files includes some references about the topics listed in thi
 ## #11 at 2021-02-01
 
 - A Node.js script to extract data from Oracle RDBMS to JSON documents using oracledb module
+
+## #15 at 2021-03-31
+
+- Trying Haskell stack to work in a Raspberry Pi 4 (linux-armv7) (unsuccessful)
 
 ## #10 at 2021-01-17
 
